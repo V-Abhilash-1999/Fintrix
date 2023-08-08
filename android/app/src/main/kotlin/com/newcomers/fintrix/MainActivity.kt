@@ -1,0 +1,6 @@
+package com.newcomers.fintrix
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
